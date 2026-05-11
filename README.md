@@ -33,7 +33,7 @@ THis position can copy the code
 ```
 
 ### link
-<https://google.com> <이렇게>  
+<https://google.com> <링크>  
 
 [google link](https://google.com) [소개]<링크>
 
