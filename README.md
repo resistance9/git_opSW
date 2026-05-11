@@ -1,3 +1,4 @@
+![github profile image](./github_PNG20.png)
 # Readme.md file .md grammer and convention test
 
 ## text type 
